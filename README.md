@@ -1,5 +1,43 @@
-# quickadmob
-quickadmob library
+<br/>
+<p align="center">
+  <a href="https://github.com/AtikulSoftware/quickadmob">
+    <img src="https://avatars.githubusercontent.com/u/111883800?v=4" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Quick Admob</h3>
+
+  <p align="center">
+    Easy And Best Practice with Admob Ad Implementation
+    <br/>
+    <br/>
+    <a href="https://youtu.be/i9f_-exXbpw"><strong>Explore the video docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/AtikulSoftware/quickadmob">View Demo</a>
+    .
+    <a href="https://github.com/AtikulSoftware/quickadmob/issues">Report Bug</a>
+    .
+    <a href="https://github.com/AtikulSoftware/quickadmob/issues">Request Feature</a>
+  </p>
+</p>
+
+![Downloads](https://img.shields.io/github/downloads/AtikulSoftware/quickadmob/total) ![Contributors](https://img.shields.io/github/contributors/AtikulSoftware/quickadmob?color=dark-green) ![Issues](https://img.shields.io/github/issues/AtikulSoftware/quickadmob) ![License](https://img.shields.io/github/license/AtikulSoftware/quickadmob) 
+
+
+
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Getting Started](#getting-started)
+* [Authors](#authors)
+
+## About The Project
+
+![Screen Shot](https://avatars.githubusercontent.com/u/111883800?v=4)
+
+Best practice with admob ad implementation 
+
+## Getting Started
 
 > Step 1. Add the JitPack repository to your build file 
 ```
@@ -90,3 +128,6 @@ AdsUnit.REWARDED = "ca-app-pub-3940256099942544/5224354917";
                 }
             }).ShowRewarded(MainActivity.this,true);
 ```
+## Authors
+
+* **Atikul Islam** - *Android Software Developer* - [Atikul Islam](https://github.com/AtikulSoftware) - *Free Library*
