@@ -39,6 +39,13 @@ Best practice with admob ad implementation
 
 ## Getting Started
 
+> Note : #proguard-rulse.pro
+```
+# Quick Admob Proguard Rulse
+-keep class com.bdtopcoder.quickadmob.*
+```
+
+
 > Step 1. Add the JitPack repository to your build file 
 ```
 allprojects {
