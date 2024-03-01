@@ -63,7 +63,16 @@ allprojects {
 	}
 ```
 
-Make Sure Add Internet Permissiton & Metadata in Manifests
+</br>
+
+> New Way To Implement Library
+
+<img src="https://raw.githubusercontent.com/AtikulSoftware/AtikulFiles/main/Quick%20Admob.png" alt="Library Implement Image">
+
+</br>
+</br>
+
+> Make Sure Add Internet Permissiton & Metadata in Manifests
 ```
  <!-- Internet Permission-->
     <uses-permission android:name="android.permission.INTERNET" />
